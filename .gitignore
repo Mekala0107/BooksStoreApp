@@ -1,0 +1,8 @@
+# Ignore IDE and build files
+*.class
+*.iml
+.idea/
+out/
+target/
+*.jar
+lib/jcalendar-1.4.jar
